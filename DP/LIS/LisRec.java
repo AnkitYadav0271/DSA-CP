@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//let arr = [14,5,62,4,3,7]
 class LisRec {
     int  dp [][];
     public static Lis (int [] nums){
